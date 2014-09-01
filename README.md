@@ -1,5 +1,8 @@
-appengine-endpoints-helloendpoints-java-maven
-=============================================
+hello-gae
+=========
+
+[![Build Status](https://secure.travis-ci.org/javadev/hello-gae.png)](https://travis-ci.org/javadev/hello-gae)
+[![Coverage Status](https://coveralls.io/repos/javadev/hello-gae/badge.png?branch=master)](https://coveralls.io/r/javadev/hello-gae)
 
 A "hello world" application for Google Cloud Endpoints in Java.
 
